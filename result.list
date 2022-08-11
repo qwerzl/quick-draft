@@ -1,71 +1,53 @@
-
-# USER-AGENT: 2
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
-IP-CIDR,52.223.208.0/21,no-resolve
-IP-CIDR,99.181.64.0/18,no-resolve
-DOMAIN-SUFFIX,odysseyplus.site
-# AUTHOR: blackmatrix7
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-SUFFIX,twitchsvc.net
-IP-CIDR,192.108.239.0/24,no-resolve
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,ttvnw.net
-USER-AGENT,*Spotify*
-# DOMAIN-SUFFIX: 7
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,blueseacdn.com
-DOMAIN-KEYWORD,-spotify-com
-IP-CIDR,185.42.204.0/22,no-resolve
-IP-CIDR,45.113.128.0/22,no-resolve
-DOMAIN-SUFFIX,spotifycodes.com
-DOMAIN-SUFFIX,aaa.ax
-DOMAIN-SUFFIX,byspotify.com
-DOMAIN-SUFFIX,spotifyjobs.com
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-SUFFIX,spotify-com.akamaized.net
-DOMAIN-SUFFIX,ext-twitch.tv
-# DOMAIN-KEYWORD: 1
-# IP-CIDR: 1
-DOMAIN-SUFFIX,emby.wtf
-IP-CIDR,52.223.192.0/20,no-resolve
-PROCESS-NAME,tv.twitch.android.app
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,jiasu.ga
-DOMAIN-SUFFIX,spotify-everywhere.com
-DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,404.sb
-# TOTAL: 22
-# DOMAIN-KEYWORD: 2
-IP-CIDR,178.173.230.8/32,no-resolve
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotifycdn.net
-IP-CIDR,52.223.224.0/19,no-resolve
-# UPDATED: 2022-08-05 22:36:45
-# PROCESS-NAME: 1
-# NAME: Twitch
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,blueseacdn.com
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,twitchsvc.net
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
+PROCESS-NAME,com.spotify.music
+PROCESS-NAME,tv.twitch.android.app
+IP-CIDR,192.108.239.0/24,no-resolve
+IP-CIDR,52.223.192.0/20,no-resolve
+IP-CIDR,199.9.248.0/21,no-resolve
 IP-CIDR,192.16.64.0/21,no-resolve
 IP-CIDR,23.160.0.0/24,no-resolve
+IP-CIDR,52.223.224.0/19,no-resolve
+IP-CIDR,99.181.64.0/18,no-resolve
 IP-CIDR,103.53.48.0/23,no-resolve
-DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,spotifycharts.com
-DOMAIN-SUFFIX,poloemby.xyz
-# UPDATED: 2022-08-05 22:37:41
-IP-CIDR,199.9.248.0/21,no-resolve
-DOMAIN-SUFFIX,misakaf.org
+IP-CIDR,45.113.128.0/22,no-resolve
+IP-CIDR,52.223.208.0/21,no-resolve
+IP-CIDR,178.173.230.8/32,no-resolve
+IP-CIDR,185.42.204.0/22,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
-# IP-CIDR: 11
-# IP-CIDR6: 1
-# TOTAL: 21
-PROCESS-NAME,com.spotify.music
-DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,spotify.design
-# NAME: Spotify
-USER-AGENT,Spotify*
 IP-CIDR6,2402:2a80::/32,no-resolve
-# DOMAIN-SUFFIX: 16
-DOMAIN-SUFFIX,spotifyforbrands.com
+USER-AGENT,Spotify*
+USER-AGENT,*Spotify*
